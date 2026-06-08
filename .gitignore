@@ -1,0 +1,16 @@
+# Secretos y configuración
+secrets/
+.env
+*.pem
+*.key
+bunker*
+
+# Dependencias
+node_modules/
+dist/
+build/
+
+# Logs y basura del sistema
+*.log
+.DS_Store
+.npm/

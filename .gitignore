@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+dist/
+build/
+
+# Secretos y configuración
+.env
+secrets/
+*.pem
+*.key
+
+# Logs y basura del sistema
+*.log
+.DS_Store
+.npm/
+
+# Temporales
+tmp/
+actions-runner/
+node_modules/
+functions/node_modules/

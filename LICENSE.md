@@ -1,17 +1,17 @@
-# LICENCIA DE PROPIEDAD INTELECTUAL - CIPHERKEY ENTERPRISE V2
+# INTELLECTUAL PROPERTY LICENSE - CIPHERKEY ENTERPRISE V2
 
-Copyright (c) 2026 David José Camacho González. Todos los derechos reservados.
+Copyright (c) 2026 David José Camacho González. All rights reserved.
 
-INVESTIGADOR: David José Camacho González
+RESEARCHER: David José Camacho González
 ORCID ID: https://orcid.org/0009-0006-7597-9825
 
-Este software, incluyendo el motor criptográfico, el sistema CypherORM y toda la arquitectura asociada (denominada "Búnker V2"), es propiedad exclusiva de su autor.
+This software, including the cryptographic engine, the CypherORM system, and all associated architecture (referred to as "Bunker V2"), is the exclusive property of the author.
 
-PROHIBICIONES EXPRESAS:
-1. Queda estrictamente prohibida la copia, distribución, modificación, ingeniería inversa o cualquier intento de réplica comercial, total o parcial, sin la autorización expresa y por escrito del autor.
-2. Este código está protegido por las leyes internacionales de propiedad intelectual y derechos de autor bajo el registro del autor en ORCID.
+EXPRESS PROHIBITIONS:
+1. Copying, distribution, modification, reverse engineering, or any attempt at commercial replication, in whole or in part, is strictly prohibited without the express written authorization of the author.
+2. This code is protected by international intellectual property and copyright laws under the author's ORCID registry.
 
-USO COMERCIAL:
-Cualquier despliegue B2B o modelo SaaS basado en esta tecnología requiere una licencia comercial específica otorgada por el autor.
+COMMERCIAL USE:
+Any B2B deployment or SaaS model based on this technology requires a specific commercial license granted by the author.
 
-CONTACTO: Para autorizaciones de uso o licencias híbridas, contactar al autor mediante el canal oficial asociado a su ORCID ID.
+CONTACT: For usage authorizations or hybrid licensing, contact the author through the official channels associated with the provided ORCID ID.

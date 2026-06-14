@@ -8,6 +8,7 @@
     "dev": "node --watch src/api/server.js"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@neondatabase/auth": "^0.4.1-beta",
     "@neondatabase/neon-js": "^0.6.1-beta",
     "@opentelemetry/auto-instrumentations-node": "^0.77.0",
@@ -39,6 +40,5 @@
   "homepage": "https://github.com/camachogonzalezdavidjose-stack/bunkercore#readme",
   "directories": {
     "test": "tests"
-  },
-  "devDependencies": {}
+  }
 }

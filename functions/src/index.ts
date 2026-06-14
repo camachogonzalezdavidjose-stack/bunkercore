@@ -26,6 +26,7 @@ import * as logger from "firebase-functions/logger";
 // this will be the maximum concurrent request count.
 setGlobalOptions({ maxInstances: 10 });
 
+
 import { defineFlow } from '@genkit-ai/flow';
 import { validarAccesoConIA } from './ia_validador'; // Importamos lo que creamos
 
@@ -34,3 +35,9 @@ export const validarAccesoFlow = defineFlow({
 }, async () => {
   return await validarAccesoConIA();
 });
+
+// export const helloWorld = onRequest((request, response) => {
+//   logger.info("Hello logs!", {structuredData: true});
+//   response.send("Hello from Firebase!");
+// });
+     2877007051d83c74d718d03fa4b65da0aaf594f1

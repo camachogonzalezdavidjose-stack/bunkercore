@@ -8,20 +8,29 @@
     "dev": "node --watch src/api/server.js"
   },
   "dependencies": {
+
     "@google/generative-ai": "^0.24.1",
     "@neondatabase/auth": "^0.4.1-beta",
     "@neondatabase/neon-js": "^0.6.1-beta",
     "@opentelemetry/auto-instrumentations-node": "^0.77.0",
     "@opentelemetry/exporter-prometheus": "^0.219.0",
     "@opentelemetry/sdk-node": "^0.219.0",
+
+    "@neondatabase/auth": "^0.4.1-beta",
+    "@neondatabase/neon-js": "^0.6.1-beta",
+     2877007051d83c74d718d03fa4b65da0aaf594f1
     "@simplewebauthn/browser": "^10.0.0",
     "@simplewebauthn/server": "^10.0.1",
     "better-auth": "^1.6.11",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "postgres": "^3.4.4",
+
     "react-router-dom": "^7.17.0",
     "uuid": "^14.0.0"
+
+    "react-router-dom": "^7.17.0"
+     2877007051d83c74d718d03fa4b65da0aaf594f1
   },
   "overrides": {
     "better-auth": "$better-auth"
@@ -40,5 +49,10 @@
   "homepage": "https://github.com/camachogonzalezdavidjose-stack/bunkercore#readme",
   "directories": {
     "test": "tests"
+
   }
+
+  },
+  "devDependencies": {}
+    2877007051d83c74d718d03fa4b65da0aaf594f1
 }

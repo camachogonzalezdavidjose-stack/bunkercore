@@ -16,6 +16,9 @@ secrets/
 
 # Temporales
 tmp/
+HEAD
 actions-runner/
 node_modules/
 functions/node_modules/
+
+2877007051d83c74d718d03fa4b65da0aaf594f1
